@@ -208,4 +208,4 @@ Function.prototype.method = function (name, fn) {
 
     window.IPTV = IPTV;
 
-})(window);
+})(window, undefined);
